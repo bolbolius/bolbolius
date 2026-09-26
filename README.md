@@ -14,6 +14,29 @@ A Wayland shell for Niri, built with Go and GTK4.
 
 A terminal video dithering tool written in Go.
 
-## Skills
+<br>
 
-<img src="./go.svg" width="48"> <img src="./python.svg" width="48"> <img src="./nim.svg" width="48"> <img src="./linux.svg" width="48"> <img src="./wayland.svg" width="48"> <img src="./gtk.svg" width="48"> <img src="./git.svg" width="48"> <img src="./zsh.svg" width="48">
+<p align="left">
+  <img src="./go.svg" width="40" height="40">
+  <img src="./python.svg" width="40" height="40">
+  <img src="./nim.svg" width="40" height="40">
+
+  <img src="./gin.svg" width="40" height="40">
+  <img src="./postgresql.svg" width="40" height="40">
+  <img src="./mqtt.svg" width="40" height="40">
+  <img src="./nginx.svg" width="40" height="40">
+  <img src="./docker.svg" width="40" height="40">
+
+  <img src="./git.svg" width="40" height="40">
+  <img src="./neovim.svg" width="40" height="40">
+  <img src="./cloudflare.svg" width="40" height="40">
+  <img src="./raspberrypi.svg" width="40" height="40">
+
+  <img src="./linux.svg" width="40" height="40">
+  <img src="./gnu.svg" width="40" height="40">
+  <img src="./zsh.svg" width="40" height="40">
+  <img src="./wayland.svg" width="40" height="40">
+  <img src="./niri.svg" width="40" height="40">
+  <img src="./gtk.svg" width="40" height="40">
+  <img src="./openwrt.svg" width="40" height="40">
+</p>

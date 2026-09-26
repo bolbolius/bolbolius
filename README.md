@@ -34,6 +34,7 @@ A terminal video dithering tool written in Go.
 
   <img src="./zsh.svg" width="40" height="40">
   <img src="./niri.svg" width="40" height="40">
+  <img src="./voidlinux.svg" width="40" height="40">
   <img src="./openwrt.svg" width="40" height="40">
   <img src="./linux.svg" width="40" height="40">
 </p>

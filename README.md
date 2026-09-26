@@ -16,4 +16,4 @@ A terminal video dithering tool written in Go.
 
 ## Skills
 
-<img src="./go.svg" width="48"> <img src="./python.svg" width="48"> <img src="./nim.svg" width="48"> <img src="./linux.svg" width="48"> <img src="./wayland.svg" width="48"> <img src="./gtk.svg" width="48"> <img src="./git.svg" width="48"> <img src="./bash.svg" width="48">
+<img src="./go.svg" width="48"> <img src="./python.svg" width="48"> <img src="./nim.svg" width="48"> <img src="./linux.svg" width="48"> <img src="./wayland.svg" width="48"> <img src="./gtk.svg" width="48"> <img src="./git.svg" width="48"> <img src="./zsh.svg" width="48">

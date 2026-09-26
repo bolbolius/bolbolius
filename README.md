@@ -10,9 +10,18 @@ I've been programming for ~5 years, mostly with Go and Python, with a bit of Nim
 
 A Wayland shell for Niri, built with Go and GTK4.
 
-### bolture
+### [bolture](https://github.com/bolbolius/bolture)
 
 A terminal video dithering tool written in Go.
+
+### [terminal-dotfiles](https://github.com/bolbolius/terminal-dotfiles)
+
+My daily dotfiles for terminal.
+
+### [bolboloxy](https://github.com/bolbolius/bolboloxy)
+
+A lightweight VLESS-over-WS proxy for Cloudflare Workers.
+
 
 <br>
 

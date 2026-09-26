@@ -21,20 +21,27 @@ A terminal video dithering tool written in Go.
   <img src="./python.svg" width="40" height="40">
   <img src="./nim.svg" width="40" height="40">
 
+  <br>
+
   <img src="./gin.svg" width="40" height="40">
   <img src="./postgresql.svg" width="40" height="40">
   <img src="./mqtt.svg" width="40" height="40">
   <img src="./nginx.svg" width="40" height="40">
   <img src="./docker.svg" width="40" height="40">
 
+  <br>
+
   <img src="./git.svg" width="40" height="40">
   <img src="./neovim.svg" width="40" height="40">
   <img src="./cloudflare.svg" width="40" height="40">
   <img src="./raspberrypi.svg" width="40" height="40">
 
+  <br>
+
   <img src="./zsh.svg" width="40" height="40">
-  <img src="./niri.svg" width="40" height="40">
   <img src="./voidlinux.svg" width="40" height="40">
-  <img src="./openwrt.svg" width="40" height="40">
   <img src="./linux.svg" width="40" height="40">
+  <img src="./niri.svg" width="40" height="40">
+  <img src="./openwrt.svg" width="40" height="40">
+  <img src="./gtk.svg" width="40" height="40">
 </p>

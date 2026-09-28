@@ -6,7 +6,7 @@ I've been programming for ~5 years, mostly with Go and Python, with a bit of Nim
 
 ## Projects
 
-### rebolsh - *WIP*
+### Phalune - *WIP*
 
 A Wayland shell for Niri, built with Go and GTK4.
 
